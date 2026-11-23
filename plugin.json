@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "exa",
+  "version": "3.5.1",
+  "description": "Exa web search, page fetching and research-agent tools for AI agents over MCP.",
+  "author": {
+    "name": "Exa",
+    "email": "hello@exa.ai"
+  },
+  "homepage": "https://docs.exa.ai/reference/exa-mcp",
+  "repository": "https://github.com/exa-labs/exa-mcp-server",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "exa",
+    "search",
+    "web-search",
+    "agent",
+    "research"
+  ]
+}
